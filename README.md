@@ -2,7 +2,7 @@
 
 Full-stack e-commerce app: auth, product catalog with search/filtering, cart, wishlist, checkout with Razorpay, product reviews, coupons, order tracking, email notifications, and an admin dashboard (products, orders, users, sales analytics).
 
-![Alt text]((https://github.com/pranavmali18/E-Commerce/blob/2699af280e9a3139baf03dd900387773ebbc53eb/Screenshot%202026-06-22%20114344.png))
+![Alt text](https://github.com/pranavmali18/E-Commerce/blob/2699af280e9a3139baf03dd900387773ebbc53eb/Screenshot%202026-06-22%20114344.png)
 
 ## Stack
 - **Backend:** Node.js, Express, MongoDB (Mongoose), JWT, bcrypt, Razorpay, Nodemailer
@@ -75,9 +75,9 @@ Open **http://localhost:5173**.
 - Visit `/admin` (only visible/accessible to admin accounts) for the sales dashboard, product/order/user/coupon management
 
 ---
-![Alt text]((https://github.com/pranavmali18/E-Commerce/blob/2699af280e9a3139baf03dd900387773ebbc53eb/Screenshot%202026-06-22%20114028.png))
-![Alt text]((https://github.com/pranavmali18/E-Commerce/blob/2699af280e9a3139baf03dd900387773ebbc53eb/Screenshot%202026-06-22%20114419.png))
-![Alt text](https://github.com/pranavmali18/E-Commerce/blob/2699af280e9a3139baf03dd900387773ebbc53eb/Screenshot%202026-06-22%20114431.png))
+![Alt text](https://github.com/pranavmali18/E-Commerce/blob/2699af280e9a3139baf03dd900387773ebbc53eb/Screenshot%202026-06-22%20114028.png)
+![Alt text](https://github.com/pranavmali18/E-Commerce/blob/2699af280e9a3139baf03dd900387773ebbc53eb/Screenshot%202026-06-22%20114419.png)
+![Alt text](https://github.com/pranavmali18/E-Commerce/blob/2699af280e9a3139baf03dd900387773ebbc53eb/Screenshot%202026-06-22%20114431.png)
 
 ## 5. Project structure
 
